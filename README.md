@@ -48,4 +48,4 @@ When I’m not coding, I like to play sports like basketball and frisbee!
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[your-github-username]&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[MartinAlamo20]&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
