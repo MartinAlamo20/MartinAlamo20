@@ -1,4 +1,4 @@
-# 👋 Hi I'm <Martin Alamo>!
+# 👋 Hi I'm Martin Alamo!
 
 🎓 Bachelor of Science in Information Technology student at Xavier University Ateneo de Cagayan,
 📍 Lives in <Cagayan de Oro City>, Philippines  
